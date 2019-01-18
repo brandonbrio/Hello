@@ -8,6 +8,7 @@
 int main(int argc, char **argv) {
 
 	printf("Brandon Brion");
+	printf("My major is Computer Science");
 	
 	return 0;
 }
